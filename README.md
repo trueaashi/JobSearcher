@@ -30,7 +30,9 @@ Job_Searcher Website provides an engaging, user-friendly, and secure environment
 
 ## Visual Example
 
-![N-Queen Visualisation](N-Queens.gif)
+![Job Searcher Pic 1](https://github.com/trueaashi/Job_Board/blob/main/JobSearcher-Pic1.jpg?raw=true)
+![Job Searcher Pic 2](https://github.com/trueaashi/Job_Board/blob/main/JobSearcher-Pic2.jpg?raw=true)
+![Job Searcher Pic 3](https://github.com/trueaashi/Job_Board/blob/main/JobSearcher-Pic3.jpg?raw=true)
 
 ## Key Concepts
 
