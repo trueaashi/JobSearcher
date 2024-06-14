@@ -25,7 +25,7 @@ Job_Searcher Website provides an engaging, user-friendly, and secure environment
 
 ## Project Details
 
-- Repository: [N-Queens Visualizer](https://github.com/trueaashi/N-Queens-Visualizer-.git)
+- Repository: [Job Searcher Website](https://github.com/trueaashi/Job_Board.git)
 - Year: 2023
 
 ## Visual Example
@@ -51,7 +51,7 @@ Job_Searcher Website provides an engaging, user-friendly, and secure environment
 
 ## Getting Started
 
-- Clone the repository: `git clone https://github.com/trueaashi/N-Queens-Visualizer-.git`
+- Clone the repository: `https://github.com/trueaashi/Job_Board.git`
 - Navigate to the project directory.
 
 ## Contributing
