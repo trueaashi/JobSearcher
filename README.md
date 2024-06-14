@@ -1,7 +1,6 @@
 # Job_Searcher Website
 
 ## Description
-
 Job_Searcher Website provides an engaging, user-friendly, and secure environment for job searchers and employers to connect, submit job postings, and find qualified applicants.
 
 
